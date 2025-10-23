@@ -1,2 +1,2 @@
 # ICS-Quadration-grader-Mbao-Reagan.
-For calculations
+For calculations and inital structre
